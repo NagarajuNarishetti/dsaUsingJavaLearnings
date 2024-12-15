@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraySorted",
+            "request": "launch",
+            "mainClass": "ArraySorted",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Amain",
+            "request": "launch",
+            "mainClass": "Basics.Amain",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Arm",
+            "request": "launch",
+            "mainClass": "Basics.Arm",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Basics.Arrays",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Arrays2",
+            "request": "launch",
+            "mainClass": "Basics.Arrays2",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Arrlst",
+            "request": "launch",
+            "mainClass": "Basics.Arrlst",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Arrstr",
+            "request": "launch",
+            "mainClass": "Basics.Arrstr",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Cmd",
+            "request": "launch",
+            "mainClass": "Basics.Cmd",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Cond",
+            "request": "launch",
+            "mainClass": "Basics.Cond",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Basics.Count",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Fib",
+            "request": "launch",
+            "mainClass": "Basics.Fib",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Basics.Function",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Basics.Input",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Basics.Inputs",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Basics.Main",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "MulArrLst",
+            "request": "launch",
+            "mainClass": "Basics.MulArrLst",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "MulFun",
+            "request": "launch",
+            "mainClass": "Basics.MulFun",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Premitivies",
+            "request": "launch",
+            "mainClass": "Basics.Premitivies",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Basics.Prime",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Basics.Reverse",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Swithch",
+            "request": "launch",
+            "mainClass": "Basics.Swithch",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "Basics.a",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "BinaryString",
+            "request": "launch",
+            "mainClass": "BinaryString",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "ButterFly",
+            "request": "launch",
+            "mainClass": "ButterFly",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "CycleSort",
+            "request": "launch",
+            "mainClass": "CycleSort",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "Diamond",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Dice",
+            "request": "launch",
+            "mainClass": "Dice",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Fib(1)",
+            "request": "launch",
+            "mainClass": "Fib",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "HallowRect",
+            "request": "launch",
+            "mainClass": "HallowRect",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Hollow_Rhombus_Pattern",
+            "request": "launch",
+            "mainClass": "Hollow_Rhombus_Pattern",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "InsAtEnd",
+            "request": "launch",
+            "mainClass": "InsAtEnd",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "InvertedAndRotatedHalfPyramid",
+            "request": "launch",
+            "mainClass": "InvertedAndRotatedHalfPyramid",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Inverted_Half_Pyramid_Pattern_with_Numbers",
+            "request": "launch",
+            "mainClass": "Inverted_Half_Pyramid_Pattern_with_Numbers",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Kadans",
+            "request": "launch",
+            "mainClass": "Kadans",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "MagicNumber",
+            "request": "launch",
+            "mainClass": "MagicNumber",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Maze",
+            "request": "launch",
+            "mainClass": "Maze",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Neighb",
+            "request": "launch",
+            "mainClass": "Neighb",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "Pairs",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicNumber",
+            "request": "launch",
+            "mainClass": "PalindromicNumber",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "Permutations",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "RevNumber",
+            "request": "launch",
+            "mainClass": "RevNumber",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Solid_Rhombus_Pattern",
+            "request": "launch",
+            "mainClass": "Solid_Rhombus_Pattern",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Stream",
+            "request": "launch",
+            "mainClass": "Stream",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Stream2",
+            "request": "launch",
+            "mainClass": "Stream2",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "StringDup",
+            "request": "launch",
+            "mainClass": "StringDup",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "SubSeq",
+            "request": "launch",
+            "mainClass": "SubSeq",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "T2D",
+            "request": "launch",
+            "mainClass": "T2D",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Tiling",
+            "request": "launch",
+            "mainClass": "Tiling",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "Practice_970bfada"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOne",
+            "request": "launch",
+            "mainClass": "ZeroOne",
+            "projectName": "Practice_970bfada"
+        }
+    ]
+}
