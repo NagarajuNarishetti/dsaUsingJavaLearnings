@@ -2,10 +2,9 @@ import java.util.*;
 class Node{
     int data;
     Node next=null;
-    // Node(){
-    //     this.data=data;
-    //     next=null;
-    // }
+    Node(){
+        next=null;
+    }
     Node(int data){
         this.data=data;
         next=null;
@@ -29,7 +28,8 @@ public class SLL{
         System.out.print("\n Enter N: ");
         n=sc.nextInt();
         // SLL.deleteByValue(n);
-        SLL.insetAt(n,200);
+        SLL.deleteByIndex(n);
+        // SLL.insetAt(n,200);
 
         display();  
     }
@@ -62,11 +62,13 @@ public class SLL{
     static void deleteByIndex(int index){
         Node temp=head;
         int i=0;
-        while(temp.next!=null && i++<index-1){
+        while(temp.next!=null && i<index){
             temp=temp.next;
+            i++;
         }
         // if(temp.next!=null){
-            temp=temp.next.next;
+        if(i==index)
+            temp.next=temp.next.next;
         //   }
         // else{
             // System.out.println("Somting is wrong\n");
@@ -96,16 +98,19 @@ public class SLL{
             temp.next= new Node(data);
         }
         else{
-            Node temp2 ;
+            Node temp2=new Node() ;
             temp2.next=temp.next;
         }
     }
     static void display(){
         Node temp= head;
-        while(temp.next!=null){
-            System.out.print(temp.data+"->");
+        while(temp!=null){
+            System.out.print(temp.data);
             temp=temp.next;
+            if(temp!=null){
+                System.out.print("->");
+            }
         }
-        System.out.print(temp.data);
+        // System.out.print(temp.data);
     }
 }
