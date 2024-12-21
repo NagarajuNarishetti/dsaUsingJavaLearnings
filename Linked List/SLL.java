@@ -62,6 +62,9 @@ public class SLL{
     static void deleteByIndex(int index){
         Node temp=head;
         int i=0;
+        if(temp==null){
+            System.out.println("Index out of bound");
+        }
         while(temp.next!=null && i<index){
             temp=temp.next;
             i++;
