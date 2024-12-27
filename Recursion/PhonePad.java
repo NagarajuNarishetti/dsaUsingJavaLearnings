@@ -21,7 +21,7 @@
 // }
 
 class PhonePad {
-    public static   (String digits) {
+    public static(String digits) {
         if (digits.isEmpty()) {
             return new ArrayList<>(); // Return empty list for empty input
         }
