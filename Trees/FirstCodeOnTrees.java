@@ -1,7 +1,7 @@
 import java.util.*;
 public class FirstCodeOnTrees{
      FirstCodeOnTrees(){
-    }
+    } 
     static class Node{
         int data;
         Node left;

@@ -1,6 +1,5 @@
-package MyPackage;
   
-public class Tree { 
+public class BstTree { 
     static class Node {    
     int value; 
         Node left, right; 
@@ -44,7 +43,7 @@ public class Tree {
      
      public static void main(String args[]) 
     { 
-    Tree tree = new Tree();
+    BstTree tree = new BstTree();
                 Node root = new Node(5);
                 System.out.println("Binary Tree Example");
                 System.out.println("Building tree with root value " + root.value);
@@ -56,7 +55,7 @@ public class Tree {
                 tree.insert(root, 3);
                 tree.insert(root, 9);
                 System.out.println("Traversing tree in order");
-                tree.traverseLevelOrder();
+                tree.traverseInOrder(root);
                 
               }
 }
